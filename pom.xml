@@ -170,7 +170,7 @@
 <version>2.2</version>
 <configuration>
 
-<url>http://localhost:8085/manager/text</url>
+<url>http://18.216.81.227:8085/manager/text</url>
 
 <server>apache-tomcat</server>
 
